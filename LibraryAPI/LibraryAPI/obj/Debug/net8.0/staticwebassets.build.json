@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "vr4tKiHIn6Uhfnh2/f7Ly5/9HZVQ/7PR8RoLXdP9Qbc=",
+  "Source": "LibraryAPI",
+  "BasePath": "_content/LibraryAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "LibraryAPI/wwwroot",
+      "Source": "LibraryAPI",
+      "ContentRoot": "/Users/piotrpluta/Documents/GitHub/LibraryAPI/LibraryAPI/LibraryAPI/wwwroot/",
+      "BasePath": "_content/LibraryAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/piotrpluta/Documents/GitHub/LibraryAPI/LibraryAPI/LibraryAPI/wwwroot/index.html",
+      "SourceId": "LibraryAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/piotrpluta/Documents/GitHub/LibraryAPI/LibraryAPI/LibraryAPI/wwwroot/",
+      "BasePath": "_content/LibraryAPI",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    },
+    {
+      "Identity": "/Users/piotrpluta/Documents/GitHub/LibraryAPI/LibraryAPI/LibraryAPI/wwwroot/main.js",
+      "SourceId": "LibraryAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/piotrpluta/Documents/GitHub/LibraryAPI/LibraryAPI/LibraryAPI/wwwroot/",
+      "BasePath": "_content/LibraryAPI",
+      "RelativePath": "main.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/main.js"
+    }
+  ]
+}
