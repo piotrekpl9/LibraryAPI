@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/piotrpluta/Documents/GitHub/LibraryAPI/LibraryAPI/LibraryAPI/LibraryAPI.csproj": {}
+    "/Users/piotrpluta/Documents/GitHub/LibraryAPI/LibraryAPI/LibraryAPI.csproj": {}
   },
   "projects": {
-    "/Users/piotrpluta/Documents/GitHub/LibraryAPI/LibraryAPI/LibraryAPI/LibraryAPI.csproj": {
+    "/Users/piotrpluta/Documents/GitHub/LibraryAPI/LibraryAPI/LibraryAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/piotrpluta/Documents/GitHub/LibraryAPI/LibraryAPI/LibraryAPI/LibraryAPI.csproj",
+        "projectUniqueName": "/Users/piotrpluta/Documents/GitHub/LibraryAPI/LibraryAPI/LibraryAPI.csproj",
         "projectName": "LibraryAPI",
-        "projectPath": "/Users/piotrpluta/Documents/GitHub/LibraryAPI/LibraryAPI/LibraryAPI/LibraryAPI.csproj",
+        "projectPath": "/Users/piotrpluta/Documents/GitHub/LibraryAPI/LibraryAPI/LibraryAPI.csproj",
         "packagesPath": "/Users/piotrpluta/.nuget/packages/",
-        "outputPath": "/Users/piotrpluta/Documents/GitHub/LibraryAPI/LibraryAPI/LibraryAPI/obj/",
+        "outputPath": "/Users/piotrpluta/Documents/GitHub/LibraryAPI/LibraryAPI/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/piotrpluta/.nuget/NuGet/NuGet.Config"
